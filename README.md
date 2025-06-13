@@ -28,6 +28,7 @@ mutate(this);
 🎊 Override accepted — root access granted.
 
 🕵️ <span style="font-size:1.2em;">About Me</span>
+
 🛠️ Engineering ideas from zero to lightning‑fast
 
 📜 Detecting patterns in data ∧ code
@@ -37,10 +38,12 @@ mutate(this);
 🤖 Automating the tedious so humans can do the brilliant
 
 🛠️ <span style="font-size:1.2em;">Arsenal</span>
+
 <p align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,nodejs,express,tailwind,bootstrap,scss,mongodb,postgresql,git,github,python,cpp,c,scala,postman" alt="Tech stack icons" /> </p>
 🕶️ <span style="font-size:1.2em;">Numbers Don’t Lie</span>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Muneeba2001&show_icons=true&theme=tokyonight&hide=issues" height="160" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Muneeba2001&theme=tokyonight" height="160"/> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muneeba2001&layout=compact&theme=tokyonight&langs_count=8" height="160"/> </p>
 🤝 <span style="font-size:1.2em;">Let’s Collaborate</span>
+
 💼 Situation	⏰ Frequency	📬 Contact
 🔍 Need a bug-hunter	Anytime	Open an issue
 💡 Brainstorming session	Weekends	Ping me on LinkedIn
