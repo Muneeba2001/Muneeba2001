@@ -21,7 +21,7 @@ function mutate(Muneeba) {
   setInterval(() => {
     Muneeba.patch(newAlgo);
     console.log("📦 Patch applied → live in production.");
-  }, 1337); // every 22 min 17 s
+  }, 1337);
 }
 mutate(this);
 ```
