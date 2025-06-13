@@ -43,7 +43,7 @@ mutate(this);
 
 ## 🕶️Numbers Don’t Lie
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Muneeba2001&show_icons=true&theme=tokyonight&hide=issues" height="160" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Muneeba2001&theme=tokyonight" height="160"/> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muneeba2001&layout=compact&theme=tokyonight&langs_count=8" height="160"/> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Muneeba2001&show_icons=true&theme=tokyonight&hide=issues" height="160" /> </p> <p> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Muneeba2001&theme=tokyonight" height="160"/> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muneeba2001&layout=compact&theme=tokyonight&langs_count=8" height="160"/> </p>
 
 ## 🤝Let’s Collaborate
 
